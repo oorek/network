@@ -1,0 +1,6 @@
+﻿  distvec.cpp
+C:\Users\user\source\repos\Project3\Project3\distvec.cpp(58,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\source\repos\Project3\Project3\distvec.cpp(66,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\source\repos\Project3\Project3\distvec.cpp(73,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1092,5): error MSB6006: "link.exe"이(가) 종료되었습니다(코드: 1168).
+LINK : fatal error LNK1168: C:\Users\user\source\repos\Project3\Debug\Project3.exe을(를) 쓰기용으로 열 수 없습니다.
